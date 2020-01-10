@@ -1,9 +1,8 @@
-Pirates are everywhere. Armed mostly with gas-powered rock flingers.
-At least 10 of them guarding the hangar door. Typical.
+Bandits are everywhere. Armed mostly with shoddy pistols.
+At least 6 of them guarding my speeder;
 
-Could try punching my way through. Or sneaking the long way to the
-emergency exit.
+Could try shooting my way through. Or distract them with a rock
 
 What should I do?
-1. Take them head on - rush the 10 guards.
-2. Sneak my way to the emergency exit.
+1. Attempt to take them out.
+2. Distract them with a rock.
