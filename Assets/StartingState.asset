@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: StartingState
   m_EditorClassIdentifier: 
   storyText: "Bandits are everywhere. Armed mostly with shoddy pistols.\r\nAt least
-    10 of them guarding the hangar door. Typical.\r\n\r\nCould try punching my way
-    through. Or sneaking the long way to the\r\nemergency exit.\r\n\r\nWhat should
-    I do?\r\n1. Take them head on - rush the 10 guards.\r\n2. Sneak my way to the
-    emergency exit."
+    6 of them guarding my speeder;\r\n\r\nCould try shooting my way through. Or distract
+    them with a rock\r\n\r\nWhat should I do?\r\n1. Attempt to take them out.\r\n2.
+    Distract them with a rock."
+  nextStates:
+  - {fileID: 11400000, guid: 1ca6b1d428818cc4bb723e41045b4264, type: 2}
+  - {fileID: 11400000, guid: adf3121c8471ab44c8a17a164972b5f2, type: 2}
