@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ceb2284b5500dbc4cb14fba915a69e49, type: 3}
-  m_Name: StartingState
+  m_Name: A1. Outside Hangar
   m_EditorClassIdentifier: 
   storyText: "Bandits are everywhere. Armed mostly with shoddy pistols.\r\nAt least
     6 of them guarding my speeder;\r\n\r\nCould try shooting my way through. Or distract
     them with a rock\r\n\r\nWhat should I do?\r\n1. Attempt to take them out.\r\n2.
     Distract them with a rock."
   nextStates:
-  - {fileID: 11400000, guid: 1ca6b1d428818cc4bb723e41045b4264, type: 2}
-  - {fileID: 11400000, guid: adf3121c8471ab44c8a17a164972b5f2, type: 2}
+  - {fileID: 11400000, guid: 797aa984deb3728468ce8e9519118954, type: 2}
+  - {fileID: 11400000, guid: 7e78eb3fb98bbbf43b7a58dd2ab44717, type: 2}
